@@ -39,7 +39,7 @@
 
 </p>
 
-Layout practice (with adaptation).
+The site was supposed to become a web reference where a person could log in and see their vaccinations and certificates
 
 <br/>
 
